@@ -11,6 +11,9 @@ If you are using the emulator - please modify and use screenshots.pl
 
 If you are using the real device - please modify and use device_screenshots.sh
 
+A similar script:
+https://gist.github.com/sveinungkb/3a5753da908489fc0c26
+
 Additionally you may read this:
 
 http://stackoverflow.com/questions/13984017/how-to-capture-the-screen-as-fast-as-possible-through-adb
