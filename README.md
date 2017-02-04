@@ -8,7 +8,8 @@ It is just a simple perl script that is using the screencap command to save the 
 Using another command (on your choice, like in produce.sh) you may create a small video from these images.
 
 If you are using the emulator - please modify and use screenshots.pl
-if you are using the real device - please modify and use device_screenshots.sh
+
+If you are using the real device - please modify and use device_screenshots.sh
 
 Additionally you may read this:
 
